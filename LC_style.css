@@ -41,6 +41,7 @@ ul li {
 
 .intro {
   text-align: center;
+  font-weight: bolder;
   font-size: 3rem;
   padding-top: 5rem;
 }
@@ -130,7 +131,7 @@ footer {
 
   .contents {
     font-size: 1.8rem;
-    line-height: 2.8rem;
+    line-height: 3.2rem;
     color: #333333;
   }
 
