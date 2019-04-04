@@ -118,7 +118,7 @@ footer {
   }
 }
 
-@media screen and (max-width: 800px) {
+@media screen and (max-width: 1125px) {
 
   .sub-title0 {
     display: none;
