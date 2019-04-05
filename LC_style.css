@@ -30,6 +30,7 @@ ul li {
 #donation_main {
   max-width: 100%;
   padding-bottom: 3rem;
+  cursor: pointer;
 }
 
 
