@@ -41,14 +41,14 @@ ul li {
 
 .intro {
   width: 100%;
+  margin-top: 2rem;
   padding-top: 2rem;
   padding-bottom: 2rem;
   color: white;
   background-color: #003ca6;
   text-align: center;
   font-weight: bolder;
-  font-size: 3rem;
-  padding-top: 5rem;
+  font-size: 3rem;  
 }
 
 .withdraw {
